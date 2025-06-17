@@ -1,0 +1,9 @@
+{
+  "key_left": "A",
+  "key_right": "D",
+  "key_up": "W",
+  "key_down": "S",
+  "key_fire": "SPACE",
+  "sound": true,
+  "difficulty": "hard"
+}
