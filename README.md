@@ -1,8 +1,8 @@
-# -- Tytuł gry --
+Space Invaders
 
 ## Autor
 
--- autor -- 
+Mateusz Dyjak
 
 ## Opis
 
